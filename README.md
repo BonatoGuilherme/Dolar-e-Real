@@ -1,7 +1,7 @@
 # Dolar-e-Real
 
 # Funcionamento
-Converte o preço do presente em real e mostra o quanto em real ja foi acumulado/gasto.
+Converte o preço do presente em real e mostra sua lista de desejos em real.
 
 # Instalação
 Instalar o portugol Studio, apenas por la é possivel utilizar o codigo.
